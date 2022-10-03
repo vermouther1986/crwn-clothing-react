@@ -8,5 +8,5 @@ const Home = () => {
     </div>
   );
 };
-add;
+
 export default Home;
